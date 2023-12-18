@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OgunGokce00
-- C#,Html,css,js
+- C#,Html,css,js,
+-  Linux
 - 👀 I’m interested in ...
 
 
