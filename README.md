@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OgunGokce00
+- 👋 Hi, I’m  Ogun Gökce
 - C# (temel düzey)
 - Html
 - css
