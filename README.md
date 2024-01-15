@@ -3,7 +3,7 @@
 - Html
 - css
 - js
--  Php 
+-  Php
 - Linux (temel düzey)
 - arduino c++ 
 - 👀 I’m interested in ...
