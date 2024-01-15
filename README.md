@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @OgunGokce00
-- C#,Html,css,js,
--  Linux
+- C# (temel düzey)
+- Html
+- css
+- js
+- Linux (temel düzey)
+- arduino c++ 
 - 👀 I’m interested in ...
 
 
