@@ -7,7 +7,7 @@
 - Linux (temel düzey)
 - arduino c++ 
 - 👀 I’m interested in ...
-
+- wep geliştirme 
 
 <!---
 OgunGokce00/OgunGokce00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
